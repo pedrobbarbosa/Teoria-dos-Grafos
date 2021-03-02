@@ -26,7 +26,7 @@ vértices i.
 ## Implementações ✅
 - [x] Representação do Grafo
 - - [x] Estrutura de adjacência
-- [] . Métodos básicos
+- [x] . Métodos básicos
 - - [x] ehRegular: verifica se um determinado grafo é regular ou não. Deve retornar True ou False a depender do grafo.
 
 - - [x] ehCompleto: verifica se um determinado grafo é completo ou não. Deve retornar True ou False a depender do grafo.

@@ -34,6 +34,8 @@ vértices i.
 - - [x] ehConexo: verifica se um determinado grafo é conexo ou não. Deve retornar True ou False a depender do grafo. Deve utilizar busca em largura ou busca em profundidade para fazer essa verificação.
 
 - [] Algoritmos
+- - [x] Algoritmo de Busca em Largura: deve implementar o algoritmo de busca de largura utilizando uma pilha como estrutura de controle. o método deve receber um vértice para iniciar a busca. Durante a execução do algoritmo deve mostrar o status da pilha e a lista de vértices visistados e explorados.
+- - [] Algoritmo de Busca em Profundidade: deve implementar o algoritmo de busca em profundidade utilizando uma fila como estrutura de controle. O método deve receber um vértice para iniciar a busca. Durante a execução do algoitmo deve mostrar o status da fila e a lista de vértices visitados e explorados.
 - - Algoritmo de Menor Caminho (Dijkstra): deve implementar o algoritmo de Dijkstra que calcula o menor caminho de um vértice a outro no grafo.
 Devem ser implementados duas versões desse algoritmo:
 - - 1. A primeira recebe como parâmetro um vértice e o algoritmo retorna o menor caminho deste para todos os demais vértices. Neste caso, deve-se imprimir na tela a menor distância para cada par de vértice e o caminho final entre eles.

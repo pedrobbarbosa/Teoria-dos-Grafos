@@ -37,6 +37,14 @@ class Grafo:
         return False
     return True
   
+  def ehConexo(self):
+    self.busca_em_largura(self.vertices[0])
+    for vertice in self.vertices:
+      if vertice.visitado == False:
+        print(f'{vertice} Visitado: {vertice.visitado}')
+        return False
+    return True
+
   def busca_em_largura(self, vertice):
     fila = []
     vertice.visitado = True

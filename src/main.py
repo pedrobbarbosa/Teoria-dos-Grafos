@@ -17,11 +17,12 @@ G.adicionar_aresta('V2','V5')
 
 G.adicionar_aresta('V3','V4')
 
-G.adicionar_aresta('V5','V6')
+# G.adicionar_aresta('V5','V6')
 
 # Representação do grafo
 # print(G) 
 
 # print(G.ehRegular())
 # print(G.ehCompleto())
-print(G.busca_em_largura(G.vertices[0]))
+# print(G.ehConexo())
+# print(G.busca_em_largura(G.vertices[0]))

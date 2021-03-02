@@ -31,7 +31,7 @@ vértices i.
 
 - - [x] ehCompleto: verifica se um determinado grafo é completo ou não. Deve retornar True ou False a depender do grafo.
 
-- - [] ehConexo: verifica se um determinado grafo é conexo ou não. Deve retornar True ou False a depender do grafo. Deve utilizar busca em largura ou busca em profundidade para fazer essa verificação.
+- - [x] ehConexo: verifica se um determinado grafo é conexo ou não. Deve retornar True ou False a depender do grafo. Deve utilizar busca em largura ou busca em profundidade para fazer essa verificação.
 
 - [] Algoritmos
 - - Algoritmo de Menor Caminho (Dijkstra): deve implementar o algoritmo de Dijkstra que calcula o menor caminho de um vértice a outro no grafo.
